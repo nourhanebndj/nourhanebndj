@@ -1,7 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bendjeddou+Nourhane!;" />
 </h1>
 
 <h3 align="center">A passionate Backend developer from Algeria </h3>
@@ -10,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Freelance**
  
- 🌱 I’m currently learning **React Native, Node Js, Python**
+ 🌱 I’m currently learning **Node Js**
 
 💬 Ask me about **Laravel, Php, Firebase... or anything [here](https://github.com/nourhanebndj)**
 
@@ -43,10 +42,6 @@
 <br/>
 <hr/>
 
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
 
