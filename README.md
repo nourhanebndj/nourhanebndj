@@ -119,3 +119,10 @@ This project is a modern, responsive website designed for buying and selling onl
 *Python Big Data Project*  
 This project involves analyzing the correlation between various features of movies using big data techniques in Python. The analysis helps in understanding the relationships between different movie attributes such as budget, gross earnings, and ratings.
 
+**Libraries Used:**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
