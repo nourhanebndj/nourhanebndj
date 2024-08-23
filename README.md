@@ -166,7 +166,8 @@ This project involves analyzing the correlation between various features of movi
 *Jun 2022 - Present*  
 *(Zemedia, Montpellier, France)*
 
-- Experienced in building websites using WordPress and Elementor since 2023.
+- Experienced in building websites using WordPress, Elementor, and Divi since 2023.
 - Proficient in customizing themes and plugins to create visually appealing and functional websites.
 - Expertise in optimizing layouts for responsiveness, enhancing user experience across various devices.
+
 
