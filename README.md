@@ -94,3 +94,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhanebndj&show_icons=true&locale=en&layout=compact" alt="nourhanebndj" width="35%" />
   <img src="https://github-readme-stats.vercel.app/api?username=nourhanebndj&show_icons=true&theme=none&locale=en" alt="nourhanebndj" width="45%" />
 </div>
+
+## 🛠️ My Projects
+
+### [MedApp](https://github.com/nourhanebndj/MedApp) - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+*Flutter Project*  
+MedApp is a mobile application designed to improve access to medical services in Algeria. It enables users to locate medical specialists, book medical appointments online, and check the availability of medications in nearby pharmacies. The app leverages geolocation and other modern technologies to provide a user-friendly interface, and it is available in multiple languages including French, English, and Arabic.
+
+---
+
+### [Astrolabs](https://github.com/nourhanebndj/Astrolabs) - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+*React Native Project*  
+The mobile therapy application was developed to meet the specific needs of the client. It includes several key features that facilitate interaction between users and therapists.
+
+---
+
+### [EducationCourses](https://github.com/nourhanebndj/EducationCourses) - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+*PHP Project*  
+This project is a modern, responsive website designed for buying and selling online educational courses in Algeria. It features a clean and elegant design, leveraging the latest web technologies to provide a seamless user experience.
+
+---
+
+### [Movie Correlation Project](https://github.com/nourhanebndj/Movie-Correlation-Project-Python-Big-Data) - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+*Python Big Data Project*  
+This project involves analyzing the correlation between various features of movies using big data techniques in Python. The analysis helps in understanding the relationships between different movie attributes such as budget, gross earnings, and ratings.
+
