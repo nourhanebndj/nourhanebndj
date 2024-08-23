@@ -91,6 +91,6 @@
 <h3 align="left">Skills:</h3>
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhanebndj&show_icons=true&locale=en&layout=compact" alt="nourhanebndj" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nourhanebndj&show_icons=true&theme=none&locale=en" alt="nourhanebndj" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhanebndj&show_icons=true&locale=en&layout=compact" alt="nourhanebndj" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nourhanebndj&show_icons=true&theme=none&locale=en" alt="nourhanebndj" width="45%" />
 </div>
