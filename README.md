@@ -126,3 +126,32 @@ This project involves analyzing the correlation between various features of movi
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+## 💼 Experience
+
+### Flutter Developer  
+**Freelance, Annaba**  
+*Sep 2023 - Present*
+
+- Specialize in Flutter development with a focus on Bloc and Provider for efficient state management.
+- Implemented Bloc for managing complex states, effectively separating business logic from UI.
+- Utilized Provider for dependency injection, ensuring scalable and maintainable Flutter applications.
+- Collaborated cross-functionally to design and develop feature-rich mobile apps, prioritizing user experience and adherence to software architecture best practices.
+
+### Web Developer  
+**Freelance, Annaba**  
+*Jun 2022 - Present*
+
+- Excelled as a web developer proficient in HTML, CSS, JavaScript, PHP, and Laravel.
+- Created responsive front-end interfaces using HTML and CSS, with dynamic features implemented in JavaScript.
+- Developed robust back-end solutions with PHP and Laravel, ensuring seamless data processing and application logic.
+- Thrived in agile environments, consistently delivering scalable web solutions with a focus on quality and collaboration.
+
+### WordPress Designer  
+**Freelance, Annaba**  
+*Jun 2022 - Present*  
+*(Zemedia, Montpellier, France)*
+
+- Experienced in building websites using WordPress and Elementor since 2023.
+- Proficient in customizing themes and plugins to create visually appealing and functional websites.
+- Expertise in optimizing layouts for responsiveness, enhancing user experience across various devices.
+
