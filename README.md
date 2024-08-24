@@ -140,7 +140,14 @@ This project involves analyzing the correlation between various features of movi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
+### [FitBit Fitness Tracker  Project](https://github.com/nourhanebndj/FitBit-Fitness-Tracker-Data) - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+*Python Big Data Project*  
+This project involves analyzing data collected from a survey distributed via Amazon Mechanical Turk between December 3rd and 5th, 2016. The dataset includes minute-level data on physical activity, heart rate, and sleep monitoring from 30 Fitbit users who consented to submit their personal tracker information. The purpose of this analysis is to gain insights into the participants' daily activity patterns, caloric expenditure, and tracking behaviors. The data reflects the variability in activity levels and behaviors due to the different types of Fitbit devices used and individual tracking preferences.
+**Libraries Used:**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## 💼 Experience
 
 ### Flutter Developer  
