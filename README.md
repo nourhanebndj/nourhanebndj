@@ -129,6 +129,12 @@ The mobile therapy application was developed to meet the specific needs of the c
 This project is a modern, responsive website designed for buying and selling online educational courses in Algeria. It features a clean and elegant design, leveraging the latest web technologies to provide a seamless user experience.
 
 ---
+### [Ecommerce Project Laravel](https://github.com/nourhanebndj/EcommerceDz) - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+*Laravel Project*  
+This project is a fully functional eCommerce website built with Laravel, enabling users to browse products, add items to their cart, and complete purchases. The site includes an admin dashboard for managing products, categories, and orders.
+
+---
 
 ### [Movie Correlation Project](https://github.com/nourhanebndj/Movie-Correlation-Project-Python-Big-Data) - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 *Python Big Data Project*  
