@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bendjeddou+Nourhane!;" />
 </h1>
 
-<h3 align="center">A passionate Backend Developer, Data Analyst, and WordPress Developer from Algeria</h3>
+<h3 align="center">A passionate Backend Developer, Data Engineer, and WordPress Developer from Algeria</h3>
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **Advanced Data Analysis**
+- 🌱 I’m currently learning **Advanced Data Engineering**
 
 - 📫 How to reach me **nourhanebndj@gmail.com**
 
