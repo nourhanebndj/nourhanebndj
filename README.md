@@ -169,7 +169,7 @@ This project involves analyzing weather data to gain insights into various weath
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 -----
-### [Startup Expansion](https://github.com/nourhanebndj/Startup-Expansion) - ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### [Startup Expansion](https://github.com/nourhanebndj/Startup-Expnation) - ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 *Power BI & Python Project*  
 The "Startup Expansion" project is designed to analyze and visualize the expansion strategy of a startup across various states in the U.S. This project uses data from multiple sources, including sales regions, profit margins, and marketing spend, to provide insights into the effectiveness of the expansion efforts.
