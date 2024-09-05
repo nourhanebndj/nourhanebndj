@@ -191,7 +191,18 @@ The **SF Salaries Analysis** project analyzes salary data for San Francisco empl
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
+# 📊 [Student Performance Factors]([https://github.com/nourhanebndj/Student-Performance-Factors](https://github.com/nourhanebndj/Student-Performance-Factors)) - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+*Python Data Analysis Project*
 
+This project involves analyzing various factors that influence student performance using data analysis techniques. The dataset includes data on factors such as study hours, teacher quality, and school type. The purpose of this analysis is to understand how these factors impact student exam scores and overall academic performance. The project uses a variety of visualizations, including box plots, histograms, and heatmaps, to uncover trends and relationships within the data.
+
+**Libraries Used:**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+-----------------------
 
 ## 💼 Experience
 
