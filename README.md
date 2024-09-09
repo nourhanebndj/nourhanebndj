@@ -142,7 +142,7 @@ Wanderlust Chronicles is a fully functional travel and adventure blog built usin
 
 ---
 
-### [Portfolio Website](https://github.com/nourhanebndj/Portfolio) - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### [Portfolio Website](https://github.com/nourhanebndj/MyPortfolio-Website) - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 *Portfolio Project*  
 This is my personal portfolio website, showcasing my skills, experiences, and projects as a Backend Developer, Data Analyst, and WordPress Developer. The site includes sections such as About, Resume, Portfolio, and Contact, and it is designed with a clean, modern, and responsive layout.
 
