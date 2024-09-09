@@ -135,6 +135,13 @@ This project is a modern, responsive website designed for buying and selling onl
 This project is a fully functional eCommerce website built with Laravel, enabling users to browse products, add items to their cart, and complete purchases. The site includes an admin dashboard for managing products, categories, and orders.
 
 ---
+### [Blogger](https://github.com/nourhanebndj/Blogger) - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+*Laravel Project*  
+Wanderlust Chronicles is a fully functional travel and adventure blog built using Laravel. This project allows users to browse articles, explore categories, and share posts on social media. Additionally, the project includes an admin dashboard for managing articles, categories, and other admin users.
+
+---
+
 ### [Portfolio Website](https://github.com/nourhanebndj/Portfolio) - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 *Portfolio Project*  
 This is my personal portfolio website, showcasing my skills, experiences, and projects as a Backend Developer, Data Analyst, and WordPress Developer. The site includes sections such as About, Resume, Portfolio, and Contact, and it is designed with a clean, modern, and responsive layout.
