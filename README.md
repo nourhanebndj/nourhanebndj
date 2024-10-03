@@ -112,11 +112,19 @@
 
 ## 🛠️ My Projects
 
+### [Influence Agency Website](https://github.com/nourhanebndj/Influence) - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+*Laravel Project*  
+Influence Agency Website is a fully functional digital marketing platform built using Laravel. It features service showcases, a portfolio of completed projects, and blog integration. Users can browse services, explore blog posts, and view portfolios. Additionally, the project includes an admin dashboard for managing content, blog posts, portfolios, and services.
+
+---
+
 ### [MedApp](https://github.com/nourhanebndj/MedApp) - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 *Flutter Project*  
 MedApp is a mobile application designed to improve access to medical services in Algeria. It enables users to locate medical specialists, book medical appointments online, and check the availability of medications in nearby pharmacies. The app leverages geolocation and other modern technologies to provide a user-friendly interface, and it is available in multiple languages including French, English, and Arabic.
 
 ---
+
 
 ### [Astrolabs](https://github.com/nourhanebndj/Astrolabs) - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 *React Native Project*  
